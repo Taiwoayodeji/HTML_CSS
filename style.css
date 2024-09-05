@@ -1,4 +1,27 @@
+main {
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  padding: 2%;
+}
+
 body {
-    padding: 2%;
-  }
-  
+  padding: 2%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  margin-left: auto;
+  text-align: center;
+  margin-right: auto;
+}
+
+div {
+  margin-left: auto;
+  margin-right: auto;
+}
